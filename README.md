@@ -7,7 +7,7 @@
 </div>
 
 
-### 📩 How to contact me: Just send email to: <aleksaroad@gmail.com>
+### 📩 How to contact me: just send email to: <aleksaroad@gmail.com>
 ### 🌱 I’m currently learning Angular and TS
 
 <div align="center">
@@ -20,12 +20,20 @@
 <img src="https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="30"/>
 <img src="https://camo.githubusercontent.com/3a1853bcde3555bc65ea48d85c4fe4abc44143c663ccab970765f0f9355e3588/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465" height="30"/>
 <img src="https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" height="30"/>
+<img src="https://www.protocol.com/media-library/figma-logo.png?id=29208385&width=1200&coordinates=0%2C60%2C0%2C60&height=600" height="30"/>
 </div>
+
 <!--
 **AleksaRoad/AleksaRoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 🔭 I’m currently working on ...
 -->
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksaroad&show_icons=true&theme=transparent)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleksaroad)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+
